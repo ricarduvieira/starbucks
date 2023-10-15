@@ -5,3 +5,13 @@ Este é um projeto de pagina institucional que simula a identidde visual da marc
 ESTRUTURA E DESENVOLVIMENTO
 
 Este site foi construido em html e css puro e o principal desafio foi a criação do circulo verde que esta localizado atrás da imagem principal da pagina, possibilitando a oportunidade de adquirir conhecimento sobre construção de elementos geometricos com css.
+
+TECNOLOGIAS DO PROJETO
+
+HTML
+
+CSS
+
+Git
+
+Github
